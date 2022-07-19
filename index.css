@@ -11,7 +11,7 @@ body {
   background-color: rgb(245, 246, 250);
   font-size: 16px;
   scroll-behavior: smooth;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
 .container {
@@ -24,7 +24,7 @@ body {
   width: 100%;
   height: 100%;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
-  padding: .5rem;
+  padding: 0.5rem;
 }
 
 .comment__box {
@@ -33,6 +33,7 @@ body {
   background-color: #ffffff;
   margin-bottom: 4rem;
   border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
 }
 
 .input__section {
